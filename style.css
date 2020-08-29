@@ -1,0 +1,33 @@
+  body {
+    background-color: black;
+  }
+
+  h1 {
+    font-size: 50px;
+    margin: 10px;
+    color: white;
+    text-align: center;
+  }
+
+  h4 {
+    font-style: italic;
+    margin: 10px;
+    color: white;
+    text-align: center;
+  }
+
+  .gallery {
+    margin: 20px 50px;
+
+  }
+  .gallery img{
+    transition: 1s;
+    width: 15px;
+    width: 200px;
+    padding: 2px;
+  }
+
+  .gallery img:hover {
+    filter: grayscale(100%);
+    transform: scaleX(1.1);
+  }
