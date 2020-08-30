@@ -24,10 +24,10 @@
     transition: 1s;
     width: 15px;
     width: 200px;
-    padding: 2px;
+    padding: 5px;
   }
 
   .gallery img:hover {
-    filter: grayscale(100%);
+    filter: grayscale(50%);
     transform: scaleX(1.1);
   }
