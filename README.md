@@ -1,3 +1,3 @@
-Photo-Gallery
+# Photo Gallery
 
-Tech Stack: Html, CSS, JS
+### Tech Stack: Html, CSS, JS
